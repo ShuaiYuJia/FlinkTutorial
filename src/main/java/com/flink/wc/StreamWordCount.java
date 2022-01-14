@@ -21,6 +21,7 @@ public class StreamWordCount {
 //        DataStream<String> inputDataStream = env.readTextFile(inputPath);
 
         //
+//        asda
 
 
 
